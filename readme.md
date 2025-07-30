@@ -16,3 +16,5 @@
 ## 서비스 소개
 - about.md 추가
 
+## search 기능 추가
+- search.md 추가
