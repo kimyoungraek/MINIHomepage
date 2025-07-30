@@ -18,3 +18,7 @@
 
 # 사이드바 추가
 - sidebar.md 추가
+
+## search 기능 추가
+- search.md 추가
+
